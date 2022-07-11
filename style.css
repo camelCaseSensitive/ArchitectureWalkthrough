@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  #sketch-holder {
+    display: flex;
+    justify-content: center;
+    cursor: default
+  }
